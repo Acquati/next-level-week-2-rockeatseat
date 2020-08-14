@@ -98,8 +98,7 @@
     grid-template-columns: 2fr 1fr 1fr;
     grid-template-areas:
       "logo hero hero"
-      "buttons buttons total"
-    ;
+      "buttons buttons total";
   }
 
   .logo-container {
