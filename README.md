@@ -21,6 +21,10 @@
   <img alt="Proffy" src=".github/proffy.png" width="100%">
 </p>
 
+Minha versão do aplicativo desenvolvido durante a Next Level Week #2 da [Rocketseat](https://rocketseat.com.br/)
+
+---
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -44,7 +48,3 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
